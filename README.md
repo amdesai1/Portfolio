@@ -3,7 +3,7 @@
 MEng Mechanical Engineering @ UC Berkeley  
 Interested in manufacturing, thermal analysis, and simulation-driven design.
 
-📄 Portfolio (PDF): [View Portfolio](./Engineering%20Portfolio.pdf)
+📄 Portfolio (PDF): [View Portfolio](./EngPortfolio_Feb2026.pdf)
 
 The portfolio includes:
 - Laser heating thermal simulation (Python)
