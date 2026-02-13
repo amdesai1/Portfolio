@@ -10,5 +10,5 @@ The portfolio includes:
 - Natural convection validation (COMSOL)
 - Shock absorber mechanical design (SolidWorks)
 
-Contact: arav_desai@berkeley.edu
+Email: arav_desai@berkeley.edu
 LinkedIn: https://www.linkedin.com/in/amdesai1/
